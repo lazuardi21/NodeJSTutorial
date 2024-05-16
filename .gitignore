@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if using dotenv or similar)
+.env
+
+# Built output
+/build
+/dist
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Optional: Uncomment the following lines if using TypeScript
+# TypeScript build output
+*.js
+*.js.map
+
+# Optional: Uncomment the following line if using webpack or other bundler
+# Built webpack bundles
+*.bundle.js
